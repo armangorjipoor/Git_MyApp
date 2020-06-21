@@ -24,5 +24,8 @@ class ViewController: UIViewController {
         print("Btn Tapped")
     }
 
+    func temp() {
+        
+    }
 }
 
